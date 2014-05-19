@@ -1,0 +1,40 @@
+html{
+    background-color: #d4e3ee;
+}
+
+body {
+    background: url("../images/bg-grad-blue.png") top left repeat-x;
+}
+
+.layout {
+    background: url("../images/bg-pic.png") top center no-repeat;
+}
+
+.site-search input {
+    background: #07487f;
+}
+
+.site-search button {
+    margin-top: -1px;
+}
+
+.site-menu li {
+    zoom: 1;
+    display: inline;
+}
+
+nav,
+section h2 {
+    /*background: #2276a6;*/
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#174764', endColorstr='#5998ba',GradientType=0 );
+    border-top: 1px solid #59e4f9;
+    margin: 0;
+    zoom: 1;
+}
+
+aside section,
+aside section article { margin: 0; }
+
+aside section {
+    margin-bottom: -5px;
+}
