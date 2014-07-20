@@ -8,5 +8,3 @@ PSD to HTML work
 - used HTML5 and CSS3
 - strict semantics of HTML code
 - used normalize.css for smart reseting of default css rules
-
-You can evaluate a quality of code by link below.
