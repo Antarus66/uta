@@ -1,4 +1,12 @@
 uta
 ===
+![alt tag](https://github.com/Antarus66/uta/blob/master/result.jpg)
 
-Training work, demonstrating skills of semantic HTML5/CSS3 mark-up.
+PSD to HTML work
+
+- crossbrowser valid markup
+- used HTML5 and CSS3
+- strict semantics of HTML code
+- used normalize.css for smart reseting of default css rules
+
+You can evaluate a quality of code by link below.
